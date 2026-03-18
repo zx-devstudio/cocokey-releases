@@ -1,0 +1,138 @@
+﻿{
+  "version": "1.0.0.0",
+  "tag": "v1.0.0.0",
+  "baseUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0",
+  "files": [
+    {
+      "path": "CocoKey.Agent.deps.json",
+      "sha256": "9f368719a2233bc2e622dab1836b2556d2ea45f6371ba84015540f18b253936d",
+      "size": 5891,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.deps.json"
+    },
+    {
+      "path": "CocoKey.Agent.dll",
+      "sha256": "6528fff8bbbafcb10c43b7aafcffa8a6de6b79aa7a7805bb29474dd3f1cdb6d3",
+      "size": 581120,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
+      "pehash": "4a8c85922dba28253c9420c5504871b476805bb29dbbd99c00b784099d4181c4"
+    },
+    {
+      "path": "CocoKey.Agent.exe",
+      "sha256": "a1f74a87e463eee8982f51de6e313f90a1eb0b8c4537b30ceaac837da39fb6ed",
+      "size": 151552,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.exe",
+      "pehash": "07673c78907edf5670e6c84e0e58336396bec2d8dece5f231dae3802b1685d5e"
+    },
+    {
+      "path": "CocoKey.Agent.runtimeconfig.json",
+      "sha256": "73b37384bb001e78db2014d328750eb2990393712fd63cd00c0f41965b3dbe96",
+      "size": 429,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.runtimeconfig.json"
+    },
+    {
+      "path": "CocoKey.Core.dll",
+      "sha256": "8f7044f1f9f586af743dd3fe34142830dbd21a3fe427fc66d4a15336c91d08c1",
+      "size": 113152,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
+      "pehash": "a4a8409337fb6ea1dbcfda2fb98c8ef549af554f244c32c5ac8134f5c089b579"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Core.dll",
+      "sha256": "11e88b2ca921e5c88f64567f11bd83cbc396c10365d40972f3359fcc7965d197",
+      "size": 570856,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Microsoft.Web.WebView2.Core.dll",
+      "pehash": "83b87495f15975d53733a377f46d2a8170436eaa02d6604c22ec12c4c1fe1a5a"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.WinForms.dll",
+      "sha256": "5696366f7458da940cc986dc5d3d4549a2368512acd769014ecbb07b47bd88b4",
+      "size": 38376,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Microsoft.Web.WebView2.WinForms.dll",
+      "pehash": "2731180bfa5c952531a7ff085bfda85f8a138ce72e3002e3b9d1e775059e9890"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Wpf.dll",
+      "sha256": "b628d6133bf57b7482a49aa158e45b078df73ee7d33137ac1336d24ac67ed1b4",
+      "size": 51688,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Microsoft.Web.WebView2.Wpf.dll",
+      "pehash": "c24660d941a52147cb5ee88befedba00bd063fdd6676c0f866e90c3388a583fb"
+    },
+    {
+      "path": "OpenCvSharp.dll",
+      "sha256": "192d31a01a90304f0abfaae1d3b79a5ffd9387d7fceb1897a2a75a3de4c3b5b9",
+      "size": 954880,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/OpenCvSharp.dll",
+      "pehash": "67ab3fcc445d72d0089c23078d53a89d9117c4965f31ac129f14060e8d671295"
+    },
+    {
+      "path": "runtimes/win-arm64/native/WebView2Loader.dll",
+      "sha256": "77152af4472dc7741901ba69ce3a670992546eb2f5eda3db7fee135ee0037de0",
+      "size": 140248,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-arm64--native--WebView2Loader.dll",
+      "pehash": "3434280f82c43fa92b04c0e117e68f3c13e1378c18fb8c7a42aeeadde108aacb"
+    },
+    {
+      "path": "runtimes/win-x64/native/opencv_videoio_ffmpeg4100_64.dll",
+      "sha256": "3de83b84588b3ee8bacdbea85a8f92d4855a32a1108183963315a7db06ad5744",
+      "size": 26391552,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--opencv_videoio_ffmpeg4100_64.dll",
+      "pehash": "841bc192f61b3bd0416dab97bfe3a9811ae5188dac3eedd8637dcb3419ba9e0f"
+    },
+    {
+      "path": "runtimes/win-x64/native/OpenCvSharpExtern.dll",
+      "sha256": "f43c484d3fe09125bc29d650ad72f7d3e631a01b64dd58fd164b4e3d8f1a4be0",
+      "size": 61745664,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--OpenCvSharpExtern.dll",
+      "pehash": "9fcbcdca8445f155cea0a39c37e3938e0111363ac89a3adce4bb71e997f3ca30"
+    },
+    {
+      "path": "runtimes/win-x64/native/WebView2Loader.dll",
+      "sha256": "465a7ddfb3a0da4c3965daf2ad6ac7548513f42329b58aebc337311c10ea0a6f",
+      "size": 165336,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--WebView2Loader.dll",
+      "pehash": "f03514752802fb46a37e2615198e8ca62c9b91ab62043474e978563f481c73d5"
+    },
+    {
+      "path": "runtimes/win-x86/native/opencv_videoio_ffmpeg4100.dll",
+      "sha256": "d158bb02be89cecd4fb4909f804c0429aacd127960452b8118a1689d7a56cdc9",
+      "size": 23424512,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x86--native--opencv_videoio_ffmpeg4100.dll",
+      "pehash": "e731b1bd9d3b6822e45f79233bcfb62404973e419e02277c760c965075ecba8d"
+    },
+    {
+      "path": "runtimes/win-x86/native/OpenCvSharpExtern.dll",
+      "sha256": "930aaa0dc4f77c834ae6276ba4b077930856b1e97aece3924e364144c76a5cb6",
+      "size": 42125312,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x86--native--OpenCvSharpExtern.dll",
+      "pehash": "283fa41cc186e838126a13053c650b3f7a25ceaafeee95c8e958b7f77bac0e9c"
+    },
+    {
+      "path": "runtimes/win-x86/native/WebView2Loader.dll",
+      "sha256": "cc2f661aac9c05646933f717e629a69be93d8d06803066289d6dc1105aac6cd2",
+      "size": 116200,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x86--native--WebView2Loader.dll",
+      "pehash": "7e4d183b660f2e8cb4588f5922353d16953f1b936abf01c062f63bf3127e4706"
+    },
+    {
+      "path": "runtimes/win/lib/net8.0/System.Management.dll",
+      "sha256": "b2d6e7e991dc9ef154b29f4966f04fd8ed4ebb2c1d1242ea1d5f3e90f8ae5143",
+      "size": 311984,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win--lib--net8.0--System.Management.dll",
+      "pehash": "b6e1c6cbc0b777941c76703e692b6f526423abcb52e835b6550c976d8b11262b"
+    },
+    {
+      "path": "System.Management.dll",
+      "sha256": "c5f69a258fc609d42e6d50903e9b4449027f4d332faa8daec04bdc3cb9286d4b",
+      "size": 72968,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/System.Management.dll",
+      "pehash": "a4c556867728a1c9702288b5946f3f7ce7c311c1b1e9e0ef761260f3c7316f54"
+    },
+    {
+      "path": "System.Security.Cryptography.ProtectedData.dll",
+      "sha256": "9246af769bf346043a952efec785245dbc734432f0f89879a0520d6bd1806d90",
+      "size": 39184,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/System.Security.Cryptography.ProtectedData.dll",
+      "pehash": "c87e8dcc5d74679033e3c3460b78b631b5a5f5adba59355a820ff74eb497fbcb"
+    }
+  ]
+}
