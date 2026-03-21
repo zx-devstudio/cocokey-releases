@@ -11,30 +11,30 @@
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "d293209bd3b007a927ba6a71d9c4c6af451a3c90acbcfb6dbad679ff81c600d6",
-      "size": 580096,
+      "sha256": "5d14e61dc0537fc28ff31e6e8feae52f5f2e099afbe1093b86a974aed42554ac",
+      "size": 628736,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "a31567b6e4f97be46f6ad249848efe6e45a3b7555669b221e21c7655c4d314f9"
+      "pehash": "43e4b8d169dfac3420cc01f063d865750950600f2b3e336a7179ea560186cd64"
     },
     {
       "path": "CocoKey.Agent.exe",
-      "sha256": "1e5c1990c1dafb25d189f227692ca44cb76340db2d752396b246768bee429daa",
-      "size": 2776780,
+      "sha256": "a1f74a87e463eee8982f51de6e313f90a1eb0b8c4537b30ceaac837da39fb6ed",
+      "size": 151552,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.exe",
-      "pehash": "1148db607ccba3803b4b12cc1bdb81b7100d6fcf461b14832e79350fd9d1a978"
+      "pehash": "07673c78907edf5670e6c84e0e58336396bec2d8dece5f231dae3802b1685d5e"
     },
     {
       "path": "CocoKey.Agent.runtimeconfig.json",
-      "sha256": "73b37384bb001e78db2014d328750eb2990393712fd63cd00c0f41965b3dbe96",
-      "size": 429,
+      "sha256": "79eec7a89b98250551b872076d1443091ec6452c5d1111601f92acd245bb322c",
+      "size": 477,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.runtimeconfig.json"
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "ef20c50e670a1382bcc0e7c232d498ec7266ca7aaa9f672bc10d4af70a7fb300",
-      "size": 115712,
+      "sha256": "6d38eddd4f151c9f19aad946f4952dc3ea079c60d3995fe60e8c76ce515684d6",
+      "size": 117760,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "6cffce347db53cb73ce8848ebd65afaf3db9c742eb8fd6efd1c6a04bb0865649"
+      "pehash": "a868946d6f61fa9e21d3e002c6d54a0b2e337d5c05e108ca57c75b0fc9344604"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
@@ -58,25 +58,11 @@
       "pehash": "c24660d941a52147cb5ee88befedba00bd063fdd6676c0f866e90c3388a583fb"
     },
     {
-      "path": "opencv_videoio_ffmpeg4100_64.dll",
-      "sha256": "3de83b84588b3ee8bacdbea85a8f92d4855a32a1108183963315a7db06ad5744",
-      "size": 26391552,
-      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/opencv_videoio_ffmpeg4100_64.dll",
-      "pehash": "841bc192f61b3bd0416dab97bfe3a9811ae5188dac3eedd8637dcb3419ba9e0f"
-    },
-    {
       "path": "OpenCvSharp.dll",
       "sha256": "192d31a01a90304f0abfaae1d3b79a5ffd9387d7fceb1897a2a75a3de4c3b5b9",
       "size": 954880,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/OpenCvSharp.dll",
       "pehash": "67ab3fcc445d72d0089c23078d53a89d9117c4965f31ac129f14060e8d671295"
-    },
-    {
-      "path": "OpenCvSharpExtern.dll",
-      "sha256": "f43c484d3fe09125bc29d650ad72f7d3e631a01b64dd58fd164b4e3d8f1a4be0",
-      "size": 61745664,
-      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/OpenCvSharpExtern.dll",
-      "pehash": "9fcbcdca8445f155cea0a39c37e3938e0111363ac89a3adce4bb71e997f3ca30"
     },
     {
       "path": "runtimes/win-arm64/native/WebView2Loader.dll",
@@ -147,13 +133,6 @@
       "size": 39184,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/System.Security.Cryptography.ProtectedData.dll",
       "pehash": "c87e8dcc5d74679033e3c3460b78b631b5a5f5adba59355a820ff74eb497fbcb"
-    },
-    {
-      "path": "WebView2Loader.dll",
-      "sha256": "465a7ddfb3a0da4c3965daf2ad6ac7548513f42329b58aebc337311c10ea0a6f",
-      "size": 165336,
-      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/WebView2Loader.dll",
-      "pehash": "f03514752802fb46a37e2615198e8ca62c9b91ab62043474e978563f481c73d5"
     }
   ]
 }
