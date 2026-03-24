@@ -11,10 +11,10 @@
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "d28d175c3e8cfd58b58125bab537f871f0e568e4b21dc00ad8ffc5b4929faa0f",
-      "size": 887808,
+      "sha256": "d1f5bb1d918e2dec14802a028634cc56338ee2d0c4150ed482ea85152512a869",
+      "size": 892416,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "7b822a98bbcc006c7d4b0d0ff104678283f3a47338d841367d81fdca8462e360"
+      "pehash": "3fa60e7cd9d577a25d935b02677ab17076d83e4228b588bb571f01545f1a9f07"
     },
     {
       "path": "CocoKey.Agent.exe",
@@ -31,10 +31,10 @@
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "ecd06de33bed9dbd7ea8dad53dfc4597e05c8e97b678296ebaac69cc5f8785b8",
+      "sha256": "a525db63edecdd2dc0a0b18da5d0a1f51e53ea7de23c44ee3c286674ee74cad7",
       "size": 197120,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "f6294e5800611bf342c3d3c9140d5b6bfba13a0f656353ae641a14ddc991d5ea"
+      "pehash": "6544d894ada346f96d44a66339e7765e22cd1300ee0cc7a41704af1925aece72"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
