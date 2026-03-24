@@ -17,6 +17,24 @@
       },
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "gacha_city_lockpick_untangle",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.GachaCity.LockpickUntangle.dll",
+      "sha256": "7c5885c12f9558c73c6196fe1876492f128e9e26d468702a7b09d06220b1218b",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_lockpick_untangle-v1.0.0/CocoKey.Games.GachaCity.LockpickUntangle.dll",
+      "displayName": "Lockpick 1",
+      "description": "Thử thách kỹ năng mở khóa!.",
+      "author": "ZX-DEV",
+      "price": 50000,
+      "genre": {
+        "name": "GachaCity",
+        "icon": "",
+        "description": "FiveM Server"
+      },
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
