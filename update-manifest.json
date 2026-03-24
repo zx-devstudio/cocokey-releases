@@ -5,16 +5,16 @@
   "files": [
     {
       "path": "CocoKey.Agent.deps.json",
-      "sha256": "9f368719a2233bc2e622dab1836b2556d2ea45f6371ba84015540f18b253936d",
-      "size": 5891,
+      "sha256": "7415e49314a72933ab2883ba66603e5e492b0390bf99c0aeec82c01cc3f1a678",
+      "size": 7005,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.deps.json"
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "c501307c171e4225685a4b0de208b12fa023e202faa31bc882218943162bf012",
-      "size": 886784,
+      "sha256": "d28d175c3e8cfd58b58125bab537f871f0e568e4b21dc00ad8ffc5b4929faa0f",
+      "size": 887808,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "b97cb8c2c11b8d5a3294d1cdae196c7c0ab1f7c811729d90a52cd7b9be435a84"
+      "pehash": "7b822a98bbcc006c7d4b0d0ff104678283f3a47338d841367d81fdca8462e360"
     },
     {
       "path": "CocoKey.Agent.exe",
@@ -31,10 +31,10 @@
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "24a7214996340a9485e23c70bf30ffb37d437d6c13f4b0337c0df56f73379639",
-      "size": 193024,
+      "sha256": "ecd06de33bed9dbd7ea8dad53dfc4597e05c8e97b678296ebaac69cc5f8785b8",
+      "size": 197120,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "3fdf6a1fefcd3824b481553c6e3d64fac55bdc0d2fe43e8a8e3a8143ed3b264f"
+      "pehash": "f6294e5800611bf342c3d3c9140d5b6bfba13a0f656353ae641a14ddc991d5ea"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
@@ -56,6 +56,20 @@
       "size": 51688,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Microsoft.Web.WebView2.Wpf.dll",
       "pehash": "c24660d941a52147cb5ee88befedba00bd063fdd6676c0f866e90c3388a583fb"
+    },
+    {
+      "path": "NHotkey.dll",
+      "sha256": "9278b83e8f5fc5dbcd3a06d540a0eb51962020a96b7d3ee74c272a4cd40d0709",
+      "size": 9728,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/NHotkey.dll",
+      "pehash": "29c95c3fde8ce83627902922fea9ca8ed2f25303244b16da1a3ae86bafa530ea"
+    },
+    {
+      "path": "NHotkey.Wpf.dll",
+      "sha256": "77f37a6f2ce2f841b9c1022df8cee427189fd152b66a6af478387798672b2dce",
+      "size": 13312,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/NHotkey.Wpf.dll",
+      "pehash": "dde7afac92a191c97c58aacca27a317850b300a03e7adb5eec5a3bfe4f08e262"
     },
     {
       "path": "OpenCvSharp.dll",
