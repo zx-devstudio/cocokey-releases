@@ -5,16 +5,16 @@
   "files": [
     {
       "path": "CocoKey.Agent.deps.json",
-      "sha256": "7415e49314a72933ab2883ba66603e5e492b0390bf99c0aeec82c01cc3f1a678",
-      "size": 7005,
+      "sha256": "5c52056d026b43115ce5fad9733903111770ba392103d773ea118c5ade0c03c6",
+      "size": 7500,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.deps.json"
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "d1f5bb1d918e2dec14802a028634cc56338ee2d0c4150ed482ea85152512a869",
-      "size": 892416,
+      "sha256": "8ced7f93eccabcaeef5b46ef14614c206c6abcce8ffdd0afca40edb89a091fe8",
+      "size": 890368,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "3fa60e7cd9d577a25d935b02677ab17076d83e4228b588bb571f01545f1a9f07"
+      "pehash": "ad43c7ce9d459585d309f5a6ea93e8aeb9c2ad2109d3ec6f2b2372c9da95302a"
     },
     {
       "path": "CocoKey.Agent.exe",
@@ -31,10 +31,17 @@
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "a525db63edecdd2dc0a0b18da5d0a1f51e53ea7de23c44ee3c286674ee74cad7",
-      "size": 197120,
+      "sha256": "771671184fdcb4c66572b30e23a19a3cd2086be52973c0356900a8b780a27b21",
+      "size": 200192,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "6544d894ada346f96d44a66339e7765e22cd1300ee0cc7a41704af1925aece72"
+      "pehash": "80fd52fc0c99597a4c069d4558eff7bd0bbf910ef4d97ddea58b1898ed112034"
+    },
+    {
+      "path": "CocoKey.Games.GachaCity.Common.dll",
+      "sha256": "bb229512a802329a3b0d648d52bd46e6a78ba82871272038a1ae9eb1133eebcb",
+      "size": 52736,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Games.GachaCity.Common.dll",
+      "pehash": "a592f5f067331f45ba412415d3ae84e61d7f5ad769234e32562a807101bcb65e"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
