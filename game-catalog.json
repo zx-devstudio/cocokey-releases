@@ -4,17 +4,13 @@
       "id": "gacha_city_lockpick_circular",
       "version": "1.0.0",
       "dllFileName": "CocoKey.Games.GachaCity.LockpickCircular.dll",
-      "sha256": "460c62be07afddc2254780c94103c0c89959ce320c57d85520c314f4f83c6a0f",
+      "sha256": "ffabe699bfffbf9ce96bc6156f3e4345c9eca24d8280fd46b66b1bd09a6b62c0",
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_lockpick_circular-v1.0.0/CocoKey.Games.GachaCity.LockpickCircular.dll",
       "displayName": "Lockpick: Xoay màu",
       "description": "Thử thách kỹ năng mở khóa! Xoay vòng tròn để tìm điểm sweet spot và mở khóa thành công.",
       "author": "ZX-DEV",
       "price": 50000,
-      "genre": {
-        "name": "GachaCity",
-        "icon": "",
-        "description": "FiveM Server"
-      },
+      "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
     },
