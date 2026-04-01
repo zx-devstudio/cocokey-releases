@@ -32,17 +32,13 @@
       "id": "gacha_city_harvest_weed",
       "version": "1.0.0",
       "dllFileName": "CocoKey.Games.GachaCity.HarvestWeed.dll",
-      "sha256": "1635835c8abff2da3b22012926e48970907ed874c600dbcfd037ee9a4abfd4b7",
+      "sha256": "e85b53c502cab69e1750bb9977020fb5a9d2c8d825557e7af6af0e5d5f910134",
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_harvest_weed-v1.0.0/CocoKey.Games.GachaCity.HarvestWeed.dll",
       "displayName": "Hái bông",
       "description": "Tiện ích tự động hái bông. Hỗ trợ cả mod đồ họa.",
       "author": "ZX-DEV",
       "price": 50000,
-      "genre": {
-        "name": "GachaCity",
-        "icon": "",
-        "description": "FiveM Server"
-      },
+      "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
     }
