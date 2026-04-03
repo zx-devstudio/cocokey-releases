@@ -11,10 +11,10 @@
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "4551c45a6f52a2bfcfc4b5b61aca15613be80291c9ca3f5c4d6459ce7f6ee7c1",
-      "size": 911360,
+      "sha256": "3abefb9c1de4c7abbac8587d87136bb637fb0baf50c30942ff6f671259888975",
+      "size": 910336,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "9e0230a65cd423d046573fe4446bc8587cdea15dca03d49efd720f5b66a8a2cf"
+      "pehash": "92c81d9c6c699e88d4efa3997e98f539dfbdb56639511fc57049d255e3cb83d9"
     },
     {
       "path": "CocoKey.Agent.exe",
@@ -31,17 +31,17 @@
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "ccd2e4d46c1cc8a77cf4dba3b26fc1ca902e5469885206a414d1d982a86b7fef",
-      "size": 212992,
+      "sha256": "9f517d95d21b4b68cb6199f64df9d567f9b5e4f8b31dee44e6283ccff848b9a2",
+      "size": 211968,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "2e3d556c53a94c8ce9d21e2cbf5f28195e387c92ed57008e332d7c248c3a5def"
+      "pehash": "6aabf1d8e39434e8d3eae7e997ed5cc3a24b55b802d038da9be29b56ad80c194"
     },
     {
       "path": "CocoKey.Games.GachaCity.Common.dll",
-      "sha256": "4c522822473a906815360715adcb7a131a3f2be746bd75778e822cb742c4a358",
+      "sha256": "44f639dc332f20011e00e4e7a5c051279aaf15028e67a9b151457ebc7c544e42",
       "size": 56832,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Games.GachaCity.Common.dll",
-      "pehash": "8c42a59ebfa71f4391c9d96ecf51dbdc8d2ab672e6c4341cd48e38e47fb2e226"
+      "pehash": "ad7f4958fc01c47c3f6ffe97427f1ce9fefb0b5c3631f64acab5fe807ab841d4"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
