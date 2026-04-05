@@ -83,6 +83,20 @@
       "serverId": "luquy",
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "gacha_city_auto_drive",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.GachaCity.AutoDrive.dll",
+      "sha256": "bdef1335ee4356fe5bbcf7893983c9b8ba2559f41a0fdc34258e8f895bf45405",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_auto_drive-v1.0.0/CocoKey.Games.GachaCity.AutoDrive.dll",
+      "displayName": "Tự lái",
+      "description": "",
+      "author": "ZX-DEV",
+      "price": 10000,
+      "serverId": "gachacity",
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
