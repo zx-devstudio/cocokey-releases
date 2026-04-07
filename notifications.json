@@ -1,6 +1,16 @@
 {
   "notifications": [
     {
+      "id": "notif-20260407122301",
+      "title": "Big Update",
+      "message": "Phiên bản mới vừa cập bến!!! Cải thiện UX và UI và nhiều thứ khác.\r\nNếu có lỗi phát sinh vui lòng chờ đến thông báo mới nhất.\r\nThành thật xin lỗi vì sự bất tiện này.",
+      "type": "error",
+      "pinned": false,
+      "enabled": true,
+      "publishedAt": "2026-04-07T12:23:01.7782275+00:00",
+      "url": null
+    },
+    {
       "id": "notif-20260406100912",
       "title": "Cập nhật launcher",
       "message": "Ra mắt phiên bản đầu tiên của CocoKey Launcher!!!",
