@@ -97,6 +97,20 @@
       "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "gacha_city_consumables",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.GachaCity.Consumables.dll",
+      "sha256": "16266550b62d62e084f4b649e42ed99ab2ed54b7d029e0f696e14d8be6962a7f",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_consumables-v1.0.0/CocoKey.Games.GachaCity.Consumables.dll",
+      "displayName": "Ăn uống",
+      "description": "",
+      "author": "ZX-DEV",
+      "price": 50000,
+      "serverId": "gachacity",
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
