@@ -1,6 +1,16 @@
 {
   "notifications": [
     {
+      "id": "notif-20260409131916",
+      "title": "KHUYẾN MÃI",
+      "message": "\uD83C\uDF89 THÔNG BÁO KHUYẾN MÃI ĐẶC BIỆT \uD83C\uDF89\n\nTừ nay đến 15/04/2026, khi bạn kích hoạt một trong các công cụ Hái nho cam hoặc Hái bông, sẽ được tặng miễn phí tiện ích Ăn uống \uD83C\uDF47\uD83C\uDF38\n\n\uD83D\uDC49 Nhanh tay tham gia để không bỏ lỡ ưu đãi hấp dẫn này!",
+      "type": "success",
+      "pinned": true,
+      "enabled": true,
+      "publishedAt": "2026-04-09T13:19:16.6155630+00:00",
+      "url": null
+    },
+    {
       "id": "notif-20260407122301",
       "title": "Big Update",
       "message": "Phiên bản mới vừa cập bến!!! Cải thiện UX và UI và nhiều thứ khác.\r\nNếu có lỗi phát sinh vui lòng chờ đến thông báo mới nhất.\r\nThành thật xin lỗi vì sự bất tiện này.",
