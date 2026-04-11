@@ -125,6 +125,20 @@
       "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "gacha_city_cut_rock",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.GachaCity.CutRock.dll",
+      "sha256": "a46e0b85370830782628a6fc9e7d31051cf521dfc2f94a1b1da377993aa94357",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_cut_rock-v1.0.0/CocoKey.Games.GachaCity.CutRock.dll",
+      "displayName": "Cắt Đá",
+      "description": "",
+      "author": "ZX-DEV",
+      "price": 30000,
+      "serverId": "gachacity",
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
