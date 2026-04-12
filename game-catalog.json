@@ -139,6 +139,20 @@
       "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "gacha_city_dry_weed",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.GachaCity.DryWeed.dll",
+      "sha256": "205788ec4126460f10673754be61d3aac1a84af3ee3b1672b482da11032446fa",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_dry_weed-v1.0.0/CocoKey.Games.GachaCity.DryWeed.dll",
+      "displayName": "Sấy cỏ",
+      "description": "",
+      "author": "ZX-DEV",
+      "price": 30000,
+      "serverId": "gachacity",
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
