@@ -153,6 +153,20 @@
       "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "gacha_city_fishing_character_2",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.GachaCity.FishingCharacter2.dll",
+      "sha256": "8588221e430a688bdf3d88ed1f068a5ff4e539ff69c480bce4f5170052c755a7",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-gacha_city_fishing_character_2-v1.0.0/CocoKey.Games.GachaCity.FishingCharacter2.dll",
+      "displayName": "Câu cá: rương",
+      "description": "Tính năng đang trong quá trình phát triển. Vui lòng đợi!!!",
+      "author": "ZX-DEV",
+      "price": 100000,
+      "serverId": "gachacity",
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
