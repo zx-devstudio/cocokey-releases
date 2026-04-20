@@ -5,23 +5,23 @@
   "files": [
     {
       "path": "CocoKey.Agent.deps.json",
-      "sha256": "5c52056d026b43115ce5fad9733903111770ba392103d773ea118c5ade0c03c6",
-      "size": 7500,
+      "sha256": "63aed448ba992da058fe53a0c7acc329976ee9b914e67913228b72eaa8c6c119",
+      "size": 15840,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.deps.json"
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "8724e6b2a3f54ae957acf8f53f3cd838ba2b1322a91e0922e28d6994ade4cd60",
-      "size": 1182720,
+      "sha256": "b72185c86bf2a3c71c190db7dea6d0890c9731bbc82c84616b701a2c206825fd",
+      "size": 1189376,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "48767e37d571cf31e74acb84af2657ef3ad7465b9ef63e9c9a4bfc60bd872fc5"
+      "pehash": "a8583389f8c83a24f09f942741a738b71ccee3816f39d633ecf3afd6f2c599c9"
     },
     {
       "path": "CocoKey.Agent.exe",
-      "sha256": "ae418dd552c79312bb4dd282d7b2e62e110d4c8ff2aeeb782799b6689de19ceb",
+      "sha256": "9b2682d093c020e4f3a0604efff3f386948d911dffa60fcc57d47a9b6bced2cf",
       "size": 308736,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.exe",
-      "pehash": "c84bc970d3ea9d31343c82c0cf6c67d18d65f575574c11473983cd5278a6b554"
+      "pehash": "c32cb53657f4e8144a36caf2dc5cbe5fc58970a46153a848b03aaa0d60a8914c"
     },
     {
       "path": "CocoKey.Agent.runtimeconfig.json",
@@ -31,17 +31,17 @@
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "95bf4186656216072aef61ff50f587e738807c42a137b2b8b83c1ca5c46fe426",
-      "size": 256512,
+      "sha256": "5cfeb1c9689c7ac7b26310a6f421996dfb8562b1ededd3a43cf61521ff3a8a6f",
+      "size": 300544,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "7555637fb1017879685a0861e2552dd2828116231f7d1c130773af59ed21bdc3"
+      "pehash": "bd8763a00b7ea1c7de15c7c2d408285e95f5d29efa3b3fac4126903c498167f0"
     },
     {
       "path": "CocoKey.Games.GachaCity.Common.dll",
-      "sha256": "7d1406d075cfe395acf3e70baef085e090dae1ce318bfa80dae6bc7e27ad48dd",
-      "size": 57344,
+      "sha256": "d1cf04c3f8b99759e5361ee88dc674d3f9bd9e28ecaac13ade01af3addcb44d0",
+      "size": 98304,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Games.GachaCity.Common.dll",
-      "pehash": "e5a9d5666c31b601ba4ca764733f4e57a4943ee66a7f2c69c3c0940829bc396b"
+      "pehash": "f63f29168c4c12f5a5b8de791ea3406ab7d8ac414f86dac42c9edb79e23b7829"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
@@ -80,10 +80,10 @@
     },
     {
       "path": "OpenCvSharp.dll",
-      "sha256": "192d31a01a90304f0abfaae1d3b79a5ffd9387d7fceb1897a2a75a3de4c3b5b9",
-      "size": 954880,
+      "sha256": "2be2f5ad40e549df879a58b650067e5d455e28524866fc93d334ddeb01ecb7bd",
+      "size": 962048,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/OpenCvSharp.dll",
-      "pehash": "67ab3fcc445d72d0089c23078d53a89d9117c4965f31ac129f14060e8d671295"
+      "pehash": "2874813d9053fb518ba4bc69d0ed8f53051be2ac56c0c15687344c07ebb7c654"
     },
     {
       "path": "runtimes/win-arm64/native/WebView2Loader.dll",
@@ -93,6 +93,48 @@
       "pehash": "3434280f82c43fa92b04c0e117e68f3c13e1378c18fb8c7a42aeeadde108aacb"
     },
     {
+      "path": "runtimes/win-x64/native/common.dll",
+      "sha256": "92fce009aa5fe1823a66cd042c5289ffecf164636303d4a7f37032d67bec58be",
+      "size": 692224,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--common.dll",
+      "pehash": "8d63b3fca8bd18c5611ad5e3e34952c25641a4ecb912a7403b2c5eaafb3d4572"
+    },
+    {
+      "path": "runtimes/win-x64/native/libiomp5md.dll",
+      "sha256": "bc9e17190505a3beda7feedd90ba3ab7b6dc3f7ca5d980b2140c53ae459fc5ae",
+      "size": 1726848,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--libiomp5md.dll",
+      "pehash": "1dc19caca8955f5ae6dcb145877f003ee68c5d3a1c89b9dcf606eaa433c08d06"
+    },
+    {
+      "path": "runtimes/win-x64/native/mkldnn.dll",
+      "sha256": "79b356cf0e52e7ccea9ceb6a42e0377efeb13297a6c380c79034dd53b4ea8cfd",
+      "size": 48059904,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--mkldnn.dll",
+      "pehash": "7cbd64559ee8e16c4149e13814e487c1ac1bdea4ac706035596c476713e1b0af"
+    },
+    {
+      "path": "runtimes/win-x64/native/mklml.dll",
+      "sha256": "e2a7fd93e1534568626cffe22676b15164a5a2b3a62f1919a55993478b45811e",
+      "size": 92649344,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--mklml.dll",
+      "pehash": "5569f2b2c850cb909b566acbed9229b244d3ab66f2779392878bc79a8b19ddf4"
+    },
+    {
+      "path": "runtimes/win-x64/native/onnxruntime_providers_shared.dll",
+      "sha256": "fe691536e41e7d7ac0d5c6723a9aa69ce168e03676c89c50fc5bd98158029584",
+      "size": 20896,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--onnxruntime_providers_shared.dll",
+      "pehash": "6a5b64405c8353897019a93ba90ca3d9115ad37f3fad5778c65aa7e0869d93ac"
+    },
+    {
+      "path": "runtimes/win-x64/native/onnxruntime.dll",
+      "sha256": "24ccaa3ba9c5a79d88b3ea03b4399fe6d6d5c75b826661422c09613843b78213",
+      "size": 7900064,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--onnxruntime.dll",
+      "pehash": "d9ee8c04d522f6818486336e8bc47d353822af903145b17123abca2d64662435"
+    },
+    {
       "path": "runtimes/win-x64/native/opencv_videoio_ffmpeg4100_64.dll",
       "sha256": "3de83b84588b3ee8bacdbea85a8f92d4855a32a1108183963315a7db06ad5744",
       "size": 26391552,
@@ -100,11 +142,32 @@
       "pehash": "841bc192f61b3bd0416dab97bfe3a9811ae5188dac3eedd8637dcb3419ba9e0f"
     },
     {
+      "path": "runtimes/win-x64/native/opencv_videoio_ffmpeg4110_64.dll",
+      "sha256": "f0460320ac08c074bdf6d5a19f5c13d204e585e85030fdd40e20a3c0b3adeb67",
+      "size": 27954688,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--opencv_videoio_ffmpeg4110_64.dll",
+      "pehash": "c17b330dc49959c68032f5a8486e04ab945c8df1e2f2490aa93e77529e04a4f3"
+    },
+    {
       "path": "runtimes/win-x64/native/OpenCvSharpExtern.dll",
-      "sha256": "f43c484d3fe09125bc29d650ad72f7d3e631a01b64dd58fd164b4e3d8f1a4be0",
-      "size": 61745664,
+      "sha256": "c4aaa6233903b43b305773fb2d779ef23e814ce832e29b96791e3ac03e69f58b",
+      "size": 62044672,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--OpenCvSharpExtern.dll",
-      "pehash": "9fcbcdca8445f155cea0a39c37e3938e0111363ac89a3adce4bb71e997f3ca30"
+      "pehash": "c683353af74d7b63fc4f84a13df16797e57d870fee40db8a1ed1ae3ed2dee574"
+    },
+    {
+      "path": "runtimes/win-x64/native/paddle_inference_c.dll",
+      "sha256": "cf94eccbc0935f2c33426f1d560955b31eb2bf607bde0e0136f7e9a89572d9d5",
+      "size": 126376448,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--paddle_inference_c.dll",
+      "pehash": "e6ae0980358e5d9fea49f5af9c5a3a07f6d36f9aa0c7ad44589cf8e7104c7ecc"
+    },
+    {
+      "path": "runtimes/win-x64/native/paddle2onnx.dll",
+      "sha256": "5b260db5408310da59aca6b0a9153da660640ccad1715ea9777543b07c53b6b2",
+      "size": 3899392,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x64--native--paddle2onnx.dll",
+      "pehash": "f1492a021171b5d4cc6412ceb2403e9ec4499bb9892a53f6869a20a4b44eb8a8"
     },
     {
       "path": "runtimes/win-x64/native/WebView2Loader.dll",
@@ -121,11 +184,18 @@
       "pehash": "e731b1bd9d3b6822e45f79233bcfb62404973e419e02277c760c965075ecba8d"
     },
     {
+      "path": "runtimes/win-x86/native/opencv_videoio_ffmpeg4110.dll",
+      "sha256": "ba75417eeaf2c5767ed9fad80fe3ede55a3fe67493218d6074d21c7732e03d78",
+      "size": 24788480,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x86--native--opencv_videoio_ffmpeg4110.dll",
+      "pehash": "d242f08c19d4604e88d859411585389d0fcb62965603ca1996d1099ea184702a"
+    },
+    {
       "path": "runtimes/win-x86/native/OpenCvSharpExtern.dll",
-      "sha256": "930aaa0dc4f77c834ae6276ba4b077930856b1e97aece3924e364144c76a5cb6",
-      "size": 42125312,
+      "sha256": "f70811a8f9d799b73fc2faed3e284b3079712e310edaf3ab948088fc8c0f0bbe",
+      "size": 42627072,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/runtimes--win-x86--native--OpenCvSharpExtern.dll",
-      "pehash": "283fa41cc186e838126a13053c650b3f7a25ceaafeee95c8e958b7f77bac0e9c"
+      "pehash": "93d6b9ecce30d8f840370722597423a3173b1b1b255d63d387cbf1606c7e9b4e"
     },
     {
       "path": "runtimes/win-x86/native/WebView2Loader.dll",
@@ -142,6 +212,62 @@
       "pehash": "b6e1c6cbc0b777941c76703e692b6f526423abcb52e835b6550c976d8b11262b"
     },
     {
+      "path": "Sdcb.PaddleInference.dll",
+      "sha256": "233284e723199aee62acf75a4d448d1f67916b723fe1237542bb85c4cc1bd0cf",
+      "size": 41472,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleInference.dll",
+      "pehash": "5725a64bca0b2edfc9cd6747d16f81b70b926e0b1f19c79351a289c4b7e10330"
+    },
+    {
+      "path": "Sdcb.PaddleOCR.dll",
+      "sha256": "bf83305a7370127da1e9725fb44d9bf8e4302cb3af2f91b86c2bbe9ad496b4a0",
+      "size": 73216,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleOCR.dll",
+      "pehash": "cc8b4ebdee15ad8d779e1f58a2da3cd4f16d6526416d05c6094754bc89d2b4bf"
+    },
+    {
+      "path": "Sdcb.PaddleOCR.Models.Local.dll",
+      "sha256": "e34de122abd6a12e762ae7e930ed6c45c429764663748827cd74080091c40adc",
+      "size": 21837312,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleOCR.Models.Local.dll",
+      "pehash": "d02844e003203d05d4f5533f049ad83ff11db30b0e3c68574bbaec5e422a773a"
+    },
+    {
+      "path": "Sdcb.PaddleOCR.Models.LocalV3.dll",
+      "sha256": "263c3dff15e7a3a4d564424ae06d2bd163cf7c273fe72d01d9132a8ed7b38fb3",
+      "size": 138371072,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleOCR.Models.LocalV3.dll",
+      "pehash": "a39e98df186653bdb80812a1459da4ced6e8ee45cff363ca66d495355bbbf5e2"
+    },
+    {
+      "path": "Sdcb.PaddleOCR.Models.LocalV4.dll",
+      "sha256": "fdcddabc593fc6a65d8b2cc83b50d65d70a446ac657b4d9634a7758eb53eefb5",
+      "size": 128602112,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleOCR.Models.LocalV4.dll",
+      "pehash": "7f0489e7ed97e3930a156944c71f5007c804c0503dc7d97c037c77ef36c571a7"
+    },
+    {
+      "path": "Sdcb.PaddleOCR.Models.LocalV5.dll",
+      "sha256": "01dda5981f62f6a9c29a4eb5c4f6f59ba3bd4e15eeda6beaa17c2b137734bc2d",
+      "size": 21772800,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleOCR.Models.LocalV5.dll",
+      "pehash": "f16b3624fb4a4cf6273adfcd85705da9263c005ba604346673922ed06ada6d0c"
+    },
+    {
+      "path": "Sdcb.PaddleOCR.Models.Shared.dll",
+      "sha256": "ebd10434d40173da63a2432bf73722fa40543e4f20d25d690246a0d37ebc5a9c",
+      "size": 130048,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Sdcb.PaddleOCR.Models.Shared.dll",
+      "pehash": "15dcab8d8d437a87f04dfe1c71de293085ee4929a539fb008cf22fc604f2ba1f"
+    },
+    {
+      "path": "System.Drawing.Common.dll",
+      "sha256": "3a1930ca208d3078f241df1c7c42c2f803df2c5b8357527da6059b23a1fa76a7",
+      "size": 611088,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/System.Drawing.Common.dll",
+      "pehash": "dfb1680ea154fdc7f2d2b4d3e2f50c8d234a352ed3b5e528ba0c6d8b233b06b2"
+    },
+    {
       "path": "System.Management.dll",
       "sha256": "c5f69a258fc609d42e6d50903e9b4449027f4d332faa8daec04bdc3cb9286d4b",
       "size": 72968,
@@ -154,6 +280,60 @@
       "size": 39184,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/System.Security.Cryptography.ProtectedData.dll",
       "pehash": "c87e8dcc5d74679033e3c3460b78b631b5a5f5adba59355a820ff74eb497fbcb"
+    },
+    {
+      "path": "tessdata/eng.traineddata",
+      "sha256": "daa0c97d651c19fba3b25e81317cd697e9908c8208090c94c3905381c23fc047",
+      "size": 23466654,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/tessdata--eng.traineddata"
+    },
+    {
+      "path": "tessdata/vie.traineddata",
+      "sha256": "164d9bed7e5a6444586d39434cc1adf4df976cfe23cffd6468e444c94703640a",
+      "size": 7763728,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/tessdata--vie.traineddata"
+    },
+    {
+      "path": "Tesseract.dll",
+      "sha256": "621ac53ad55c7f9d87fd44a7ff4b196a0e62fe895e1733a42fee4ba5eb067d2b",
+      "size": 126976,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/Tesseract.dll",
+      "pehash": "f9b059aa3ae362556f75240eba4e7eb180fde0a77704ff890d8742c35b3b47b0"
+    },
+    {
+      "path": "x64/leptonica-1.80.0.dll",
+      "sha256": "29e58956c947ac5d21ff6c5755607098dfdfb220b21566bb146bcc6dbc454cdf",
+      "size": 4063232,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/x64--leptonica-1.80.0.dll",
+      "pehash": "456596978d4512823fcfe183ac647cce21b1b43f73fb0e79dae572bbb56093ff"
+    },
+    {
+      "path": "x64/tesseract41.dll",
+      "sha256": "13a8eaffc40b2f2e50e8f4ad835a9b25143413e3d6a85a3e64f6ec575a795375",
+      "size": 3085312,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/x64--tesseract41.dll",
+      "pehash": "8a11f79a26d0deddf91cd6d928821ba149483e745791c744705be47b92909fc8"
+    },
+    {
+      "path": "x86/leptonica-1.80.0.dll",
+      "sha256": "23ae1310c7aa3e661963a363dae33bb698407648e7ea3085afa7a1dbdefea594",
+      "size": 3333120,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/x86--leptonica-1.80.0.dll",
+      "pehash": "5ee78e55742e822457ca5dfa685c3d513651fbd41fb195e691674337ecf4fa19"
+    },
+    {
+      "path": "x86/tesseract41.dll",
+      "sha256": "f7456f32c1066da10e9d1a94b73900ef61d6652729cb159504771f65dd331872",
+      "size": 2654720,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/x86--tesseract41.dll",
+      "pehash": "84b9dd6ab4f37df121d1d380eb6b9676863926b1e7b8dad912a2435464f7853b"
+    },
+    {
+      "path": "YamlDotNet.dll",
+      "sha256": "86f873f682c619a0c24e263dcdd15fe027104666641c92f503516671d61edda6",
+      "size": 293376,
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/YamlDotNet.dll",
+      "pehash": "c9e80ab75c1514f3254cdccfea4bad2b0e792fa723bcee168c9f66e68e6b9181"
     }
   ]
 }
