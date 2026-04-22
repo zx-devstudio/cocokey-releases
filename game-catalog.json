@@ -167,6 +167,20 @@
       "serverId": "gachacity",
       "iconBase64": "",
       "backgroundImageBase64": ""
+    },
+    {
+      "id": "luquy_data_repair",
+      "version": "1.0.0",
+      "dllFileName": "CocoKey.Games.LuQuy.DataRepair.dll",
+      "sha256": "94e1594bf2bcbf9d73f4c56d9f8424254c2635910bc9803ff2d6ab3d17221c0b",
+      "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/game-luquy_data_repair-v1.0.0/CocoKey.Games.LuQuy.DataRepair.dll",
+      "displayName": "Data Repair",
+      "description": "Tính năng đang trong quá trình phát triển. Vui lòng đợi!!!",
+      "author": "ZX-DEV",
+      "price": 50000,
+      "serverId": "luquy",
+      "iconBase64": "",
+      "backgroundImageBase64": ""
     }
   ]
 }
