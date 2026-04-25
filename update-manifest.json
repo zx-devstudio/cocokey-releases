@@ -11,17 +11,17 @@
     },
     {
       "path": "CocoKey.Agent.dll",
-      "sha256": "52ea7aee3ac88d37ab35ac98d136914ca7986cbdcffd141e9b70539347075b38",
-      "size": 1190400,
+      "sha256": "b54edcb7179f048391a1d862001725ae4a9deb0892b983fa1455134638e873a7",
+      "size": 1190912,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.dll",
-      "pehash": "daa1c96a9ce232a4d5f6e686ad741ad68e75618500f50ad71ea031e097ce4a1b"
+      "pehash": "e589377b58a65c9361886d5c2d448882c721903b511296d72795921852e07646"
     },
     {
       "path": "CocoKey.Agent.exe",
-      "sha256": "7b73d6a4b69a246a5f8eecd42c7ef2d8cafd568b920b32510f9f7c7277172f20",
+      "sha256": "07ab7728920e360b5a2773f5d2b23f993379e178e5efcf783248a49f37d77e36",
       "size": 308736,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Agent.exe",
-      "pehash": "7894e284d5672b8629a1e2b02b348467a00c6198eb0ad0cc8a59892048f417dc"
+      "pehash": "45f1c83de50840da248e28711c8509154eb65f1f086d96e8d351bc6e48f09445"
     },
     {
       "path": "CocoKey.Agent.runtimeconfig.json",
@@ -31,17 +31,17 @@
     },
     {
       "path": "CocoKey.Core.dll",
-      "sha256": "fb152101f7584f4ffa7f2d6bc5202abbe7a6d3ad7a6ceb2986ddf71e1fde2e03",
-      "size": 301568,
+      "sha256": "d39811c1e0173d1cd41a8c323186b0ef492c5ec176b840f343da07e74814f071",
+      "size": 301056,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Core.dll",
-      "pehash": "6d5016d41e7c01977e322f2df06c3cab7f4078ab6d9d5ef401141e5bd62f52e2"
+      "pehash": "98c9c49f2a115588039a6619b875e2835822782e64332db7d55a268f4fe4d6a6"
     },
     {
       "path": "CocoKey.Games.GachaCity.Common.dll",
-      "sha256": "89ee96ddf55c7cbb57dd4d801bfcedc3f93bb086b217a9b36246c91ac08bc22d",
-      "size": 98816,
+      "sha256": "2c5d502712b105dea872f085a39b1856e4870d273e9f696daf6c7ea2d3e9639e",
+      "size": 98304,
       "downloadUrl": "https://github.com/zx-devstudio/cocokey-releases/releases/download/v1.0.0.0/CocoKey.Games.GachaCity.Common.dll",
-      "pehash": "a159e6b88ef3209ee0bf4a490d04ecc80c73049de5597d549765cbd63b5f80d1"
+      "pehash": "2f6f1a98d6a7c87e63fe6ba34cf8fffc9544a262ff58f17606f242f18099a8f0"
     },
     {
       "path": "Microsoft.Web.WebView2.Core.dll",
